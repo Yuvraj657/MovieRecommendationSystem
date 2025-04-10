@@ -33,7 +33,7 @@ This project is a content-based movie recommendation system that utilizes a data
    ```bash
    pip install -r requirements.txt
    ```
-
+   
 
    If `requirements.txt` is not provided, manually install the following libraries:
 
